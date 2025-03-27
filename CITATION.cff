@@ -1,0 +1,20 @@
+cff-version: 1.2.0 
+message: "If you use this software, please cite it as below." 
+authors: 
+- family-names: "Eberhardt" 
+  given-names: "Jerome" 
+  orcid: "" 
+- family-names: "Santos-Martins" 
+  given-names: "Diogo" 
+  orcid: "" 
+- family-names: "Tillack" 
+  given-names: "Andreas F." 
+  orcid: "" 
+- family-names: "Forli" 
+  given-names: "Stefano" 
+  orcid: "" 
+title: "AutoDock Vina 1.2.0: New Docking Methods, Expanded Force Field, and Python Bindings" 
+version: 1.2.0 
+doi: 10.1021/acs.jcim.1c00203  
+date-released: "2021-7-19" 
+url: "https://pubs.acs.org/doi/10.1021/acs.jcim.1c00203"  
